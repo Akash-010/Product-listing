@@ -10,7 +10,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 #  Product Listing Page
 
-A responsive **Product Listing Web App** built with **Next.js**, **Tailwind CSS**, and **Bootstrap 5**, featuring **Server-Side Rendering (SSR)**, live product data from a public API, a **search bar**, and optional **pagination** and **product detail pages**.
+A responsive **Product Listing Web App** built with **Next.js**, **Tailwind CSS**, and  featuring **Server-Side Rendering (SSR)**, live product data from a public API, a **search bar**, and optional **pagination** and **product detail pages**.
 
 ---
 
